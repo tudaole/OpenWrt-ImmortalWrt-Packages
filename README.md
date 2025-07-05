@@ -9,12 +9,12 @@
 |[luci-app-homeproxy](https://github.com/muink/luci-app-homeproxy)|muink|homeproxy 代理|single|20240830|
 |[luci-app-lucky](https://github.com/sirpdboy/luci-app-lucky)|Siriling|Lucky 大吉|single|20250612|
 |[luci-app-mosdns](https://github.com/sbwml/luci-app-mosdns)|sbwml|mosdns|multi|20250704|
-|[luci-app-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)|nikkinikki-org|nikki 代理|single|20250630|
+|[luci-app-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)|nikkinikki-org|nikki 代理|single|20250705|
 |[luci-app-partexp](https://github.com/sirpdboy/luci-app-partexp)|sirpdboy|分区管理|single|20250612|
-|[luci-app-passwall](https://github.com/xiaorouji/openwrt-passwall)|xiaorouji|passwall|multi|20250704|
+|[luci-app-passwall](https://github.com/xiaorouji/openwrt-passwall)|xiaorouji|passwall|multi|20250705|
 |[luci-app-passwall2](https://github.com/xiaorouji/openwrt-passwall2)|xiaorouji|passwall2|multi|20250621|
 |[luci-app-poweroffdevice](https://github.com/sirpdboy/luci-app-poweroffdevice)|sirpdboy|关机功能|single|20250514|
-|[luci-app-smartdns](https://github.com/pymumu/luci-app-smartdns)|pymumu|smartdns|single|20250702|
+|[luci-app-smartdns](https://github.com/pymumu/luci-app-smartdns)|pymumu|smartdns|single|20250705|
 |[luci-app-store](https://github.com/linkease/istore)|linkease|istore 应用市场|multi|20250625|
 |[luci-app-tailscale](https://github.com/asvow/luci-app-tailscale)|asvow|tailscale|single|20250509|
 |[luci-app-wrtbwmon](https://github.com/brvphoenix/luci-app-wrtbwmon)|brvphoenix|在线设备流量监控|multi|20240217|
