@@ -3,7 +3,7 @@
 
 |软件|作者|功能|包类型|更新日期|
 |:-|:-|:-|:-|:-|
-|[golang](https://github.com/sbwml/packages_lang_golang)|sbwml|golang(geodata、xray 等依赖高版本 go)|single|20251106|
+|[golang](https://github.com/sbwml/packages_lang_golang)|sbwml|golang(geodata、xray 等依赖高版本 go)|single|20251203|
 |[luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome)|rufengsuixing|adguardhome|single|20200113|
 |[luci-app-alist](https://github.com/sbwml/luci-app-alist)|sbwml|alist|multi|20250528|
 |[luci-app-homeproxy](https://github.com/muink/luci-app-homeproxy)|muink|homeproxy 代理|single|20240830|
